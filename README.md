@@ -1,6 +1,6 @@
 # CarFun
 
-CarFun is an Augmented Reality software that allows you to interact with a 3D car model in the __Landscape__ mode and is compatible with Android 7.0 or higher. Check if your device is compatible [here](https://developers.google.com/ar/devices). To use the app, follow the steps below.
+CarFun is an Augmented Reality app that allows you to interact with a 3D car model in the __Landscape__ mode and is compatible with Android 7.0 or higher. Check if your device is compatible [here](https://developers.google.com/ar/devices). To use the app, follow the steps below.
 1. Download the [CarFun.apk](./Builds/CarFun.apk) file in your mobile device.
 2. If not automatically installed, install [Google Play Services for AR](https://play.google.com/store/apps/details?id=com.google.ar.core) to run the app. If you already have it, check for any updates.
 3. Open the app. You'll see the following UI.
